@@ -25,7 +25,6 @@ if (isset($_POST['login_but'])) {
             echo "erro";
         }
     }
-
 }
 ?>
 <!DOCTYPE html>
